@@ -1,0 +1,12 @@
+# El objetivo es llevar a acabo un buen proyecto con todos los lineamientos 
+#y todos los estandares de creacion de un software    
+
+#Este proyecto va dirijido al publico de interes   
+
+#Caracteristicas Principales: 		
+		#1- Visualemnte vistoso 
+		
+		#2- facil de entender sin necesidar de 
+			#invadir la vision del publico 
+		
+		#3- Superior a otros Sitios informativos 
